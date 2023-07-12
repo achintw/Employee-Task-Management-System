@@ -36,7 +36,7 @@ Incorporate the basic use of session in php, CRUD operations, form making and en
 
 
 # ADMIN CAN SEE THE STATUS OF THE ASSIGNED TASKS
-![admin manage task](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/2e9d2277-478e-4c79-af19-b1f948988a3b)
+![xx](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/8b465d84-f2b4-4e41-8b75-01398a78703e)
 
 
 
