@@ -11,7 +11,8 @@ Incorporate the basic use of session in php, CRUD operations, form making and en
 
 
 # EMPLOYEE'S TASKS ARE DISPLAYED
-![employee's tasks](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/7ed1d14f-bc29-48b6-bf83-660cfef24349)
+![pp](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/9ae150ea-b34e-4031-8ae3-ae0f48a3b309)
+
 
 
 
