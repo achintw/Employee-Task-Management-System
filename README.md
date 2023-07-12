@@ -1,6 +1,6 @@
 # Employee-Task-Management-System
-Basic website to practice CRUD operations in php for my internship.
-Incorporate the basic use of SESSION in php, CRUD operations, form making and enabling authorisations on login and registration screens.
+Basic website to practice CRUD operations in php for my internship. 
+Incorporate the basic use of session in php, CRUD operations, form making and enabling authorisations on login and registration screens.
 
 ![main page](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/212889fc-cd2d-48ca-b665-31ec5d485402)
 
