@@ -35,6 +35,11 @@ Incorporate the basic use of session in php, CRUD operations, form making and en
 
 
 
+# ADMIN CAN SEE THE STATUS OF THE ASSIGNED TASKS
+![admin manage task](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/2e9d2277-478e-4c79-af19-b1f948988a3b)
+
+
+
 # ADMIN APPROVES OR REJECTS THE LEAVE APPLICATIONS
 ![admin can see leave applications](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/5f5e5bc3-0b5b-4fe1-9878-7342e8a60b0a)
 
