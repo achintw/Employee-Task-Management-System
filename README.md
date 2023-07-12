@@ -41,7 +41,13 @@ Incorporate the basic use of session in php, CRUD operations, form making and en
 
 
 # ADMIN APPROVES OR REJECTS THE LEAVE APPLICATIONS
-![admin can see leave applications](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/5f5e5bc3-0b5b-4fe1-9878-7342e8a60b0a)
+![admin approve](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/d653dd77-912d-493f-be98-239c0b706ce2)
+
+![approved](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/367d7a1a-f331-4921-869f-72d6637b9e7d)
+
+
+
+
 
 
 
