@@ -1,0 +1,106 @@
+body{
+	background-color: #34568B;
+	/*background-color: #0476D0;*/
+	/*color: #FFFFFF;*/
+	padding: 0px;
+	margin: 0px;
+}
+
+#home_page{
+	background-color: #FFFFFF;
+	border-radius: 25px;
+	position: relative;
+  	top: 200px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
+	height: 25vh;
+	width: 37vw;
+
+	/*padding-bottom: 15px;*/
+}
+
+#login_home_page{
+	/*background-color: #81CACF;*/
+	position: relative;
+	top: 170px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
+	height: 25vh;
+	width: 37vw;
+}
+
+#register_home_page{
+	/*background-color: #81CACF;*/
+	position: relative;
+	top: 100px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
+	height: 45vh;
+	width: 30vw;
+}
+
+#header{
+	background-color:  #FFCBA5 ;
+	height: 8vh;
+	width: 101vw;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 50px;
+}
+
+#logout_link{
+	text-decoration: none;
+	color: white;
+}
+
+#left_sidebar{
+	margin-top: 50px;
+	width: 13vw;
+	height: 30vh;
+	display: inline-block;  
+}
+
+#left_sidebar table tr{
+	background-color: #005000;
+	color: white;
+	font-size: 18px;
+}
+
+#left_sidebar table tr:hover{
+	background-color: #FFCBA5;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#logout_link{
+	text-decoration: none;
+	color: white;
+}
+#logout_link:hover{
+	background-color: #FFCBA5;
+	color: black; 
+}
+
+.link{
+	text-decoration: none;
+	color: white;
+}
+.link:hover{
+	text-decoration: none;
+	color: black;
+}
+
+#right_sidebar{
+	color: white;
+	padding: 35px;
+	height: 75vh;
+	width: 75vw;
+	display: inline-block;
+
+}
+
+
+
