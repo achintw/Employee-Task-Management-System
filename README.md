@@ -15,6 +15,11 @@ Incorporate the basic use of session in php, CRUD operations, form making and en
 
 
 
+# EMPLOYEES CAN UPDATE THE DB ABOUT THE ASSIGNED TASK
+![update task](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/f30518b4-1307-4675-b28d-740383b13d84)
+
+
+
 # EMPLOYEES CAN APPLY FOR LEAVES
 ![apply leave](https://github.com/achintw/Employee-Task-Management-System/assets/121821415/f75da8a1-86b2-477b-9d1b-00332f26863d)
 
